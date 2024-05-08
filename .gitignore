@@ -164,3 +164,5 @@ cython_debug/
 # Avoid sending testing screenshots up
 *.png
 operate/screenshots/
+screenshots/
+labeled_images/
